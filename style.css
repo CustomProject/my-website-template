@@ -1,0 +1,59 @@
+.container-title > .title{
+    font-family: "Kanit", serif;
+    font-weight: 500;
+    font-style: normal;
+    color: white;
+
+    color: white;
+    text-shadow: 0 0 10px rgb(247, 161, 132), 0 0 20px rgb(250, 155, 66), 0 0 30px rgb(246, 212, 88);
+    text-transform: uppercase;
+    font-size: large;
+}
+
+.container-title > .logo > img{
+    width: 300px;
+    position: absolute;
+    left: -30px;
+    top: -20px;
+}
+
+.container-title > .title-size{
+    text-align: center;
+
+    padding: 100px 10px 10px 10px;
+}
+.container-pictures {
+    display: flex;  
+    align-items: center;
+    gap: 20px;
+}
+
+.motivation-picture {
+    width: 350px;
+    padding-top: 200px;
+}
+
+#motivation-text {
+    font-size: 18px;
+    color: rgb(49, 45, 45);
+    padding-top: 200px;
+}
+
+.nature-picture{
+    width: 350px;
+    padding-top: 200px;
+    padding-left: 210px;
+}
+
+#nature-text {
+    font-size: 18px;
+    color: rgb(49, 45, 45);
+    padding-top: 200px;
+}
+
+.footer {
+    text-align: left;
+    color: rgb(0, 0, 0);
+    padding-top: 27px;
+}
+
